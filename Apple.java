@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson4.homework;
+package geek_java_oop_lesson4;
 
 public class Apple extends Fruct{
     public Apple() {
